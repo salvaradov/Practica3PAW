@@ -1,0 +1,27 @@
+﻿
+@model List<Producto>
+
+<form method="post" action="@Url.Action("", "")">
+    <div class="form-group">
+        <label for="producto">Selecciona el producto pendiente:</label>
+        <select id="producto" name="productoId" class="form-control">
+            <option value="">-- Selecciona un producto --</option>
+            @foreach (var producto in Model)
+            {
+                <option value="@producto.IdCompra">@producto.Descripcion</option>
+            }
+        </select>
+    </div>
+
+    <div >
+        <label for="saldoAnterior">Saldo Anterior:</label>
+        <input type="text" class="form-control" id="saldoAnterior" name="saldoAnterior" />
+    </div>
+
+    <div class="form-group">
+        <label for="abono">Abono:</label>
+        <input type="text" class="form-control" id="abono" name="abono" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Abonar</button>
+</form>

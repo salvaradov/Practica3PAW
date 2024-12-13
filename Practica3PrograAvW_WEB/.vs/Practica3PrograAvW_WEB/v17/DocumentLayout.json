@@ -1,7 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PrograAvW_WEB\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\views\\pago\\realizarpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\views\\pago\\realizarpago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\views\\producto\\consultarproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\views\\producto\\consultarproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograavw_web\\practica3prograavw_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65DAA35E-B308-4F09-AE4A-67A763EDD7A5}|Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB.csproj|solutionrelative:practica3prograavw_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +103,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Controllers\\PagoController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:56:12.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealizarPago.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Views\\Pago\\RealizarPago.cshtml",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Views\\Pago\\RealizarPago.cshtml",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Views\\Pago\\RealizarPago.cshtml",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Views\\Pago\\RealizarPago.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T08:53:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:06:44.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T23:03:41.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abono.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Models\\Abono.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Models\\Abono.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Models\\Abono.cs",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Models\\Abono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:06:21.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\appsettings.json",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T07:17:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Models\\Producto.cs",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:04:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsultarProductos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Views\\Producto\\ConsultarProductos.cshtml",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Views\\Producto\\ConsultarProductos.cshtml",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Views\\Producto\\ConsultarProductos.cshtml",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Views\\Producto\\ConsultarProductos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T07:34:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Models\\Respuesta.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Models\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Models\\Respuesta.cs",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Models\\Respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T07:04:08.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Program.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAvW_WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAvW_WEB\\Practica3PrograAvW_WEB\\Program.cs",
+              "RelativeToolTip": "Practica3PrograAvW_WEB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:06:13.563Z",
+              "EditorCaption": ""
             }
           ]
         },

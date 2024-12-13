@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PrograAW_API\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograaw_api\\practica3prograaw_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|solutionrelative:practica3prograaw_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograaw_api\\practica3prograaw_api\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|solutionrelative:practica3prograaw_api\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograaw_api\\practica3prograaw_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|solutionrelative:practica3prograaw_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograaw_api\\practica3prograaw_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|solutionrelative:practica3prograaw_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograaw_api\\practica3prograaw_api\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|solutionrelative:practica3prograaw_api\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|c:\\users\\sebastian alvarado\\source\\repos\\practica3\\practica3paw\\practica3prograaw_api\\practica3prograaw_api\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863BBAC-4A14-4628-B636-8E0B67A18979}|Practica3PrograAW_API\\Practica3PrograAW_API.csproj|solutionrelative:practica3prograaw_api\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,6 +87,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAW_API\\Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "Practica3PrograAW_API\\Controllers\\PagoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:35:06.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAW_API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Practica3PrograAW_API\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:27:22.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Practica3PrograAW_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\appsettings.json",
+              "RelativeToolTip": "Practica3PrograAW_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T23:20:38.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Program.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAW_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Program.cs",
+              "RelativeToolTip": "Practica3PrograAW_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:17:58.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abono.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Models\\Abono.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAW_API\\Models\\Abono.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Models\\Abono.cs",
+              "RelativeToolTip": "Practica3PrograAW_API\\Models\\Abono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:25:25.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Models\\Respuesta.cs",
+              "RelativeDocumentMoniker": "Practica3PrograAW_API\\Models\\Respuesta.cs",
+              "ToolTip": "C:\\Users\\Sebastian Alvarado\\source\\repos\\Practica3\\Practica3PAW\\Practica3PrograAW_API\\Practica3PrograAW_API\\Models\\Respuesta.cs",
+              "RelativeToolTip": "Practica3PrograAW_API\\Models\\Respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:14:03.398Z",
+              "EditorCaption": ""
             }
           ]
         },

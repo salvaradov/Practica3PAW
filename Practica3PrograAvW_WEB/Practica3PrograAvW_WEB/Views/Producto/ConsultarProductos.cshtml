@@ -1,0 +1,34 @@
+﻿@model List<Producto>
+
+
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Lista de Vehiculos</h5>
+
+        <div class="table-responsive">
+            <table class="table text-nowrap align-middle mb-0">
+                <thead>
+                    <tr class="border-2 border-bottom border-primary border-0">
+                        <th>Codigo Compra</th>
+                        <th>Descripcion</th>
+                        <th>Precio</th>
+                        <th>Saldo</th>
+                        <th>Estado</th>
+                    </tr>
+                </thead>
+                <tbody class="table-group-divider">
+                    @foreach (var producto in Model)
+                    {
+                        <tr>
+                            <td>@producto.IdCompra</td>
+                            <td>@producto.Descripcion</td>
+                            <td>@producto.Precio</td>
+                            <td>@producto.Saldo</td>
+                            <td>@producto.Estado</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
